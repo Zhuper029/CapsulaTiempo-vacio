@@ -2,6 +2,8 @@
 public class Mensaje {
 	
 	public static void main(String[] args) {
-		System.out.println("Mensaje para el año 2026: ¡Git funciona!");
+		System.out.println("***********************************");
+		System.out.println("MENSAJE DEL FUTURO: ¡HOLA MUNDO!");
+		System.out.println("***********************************");
 	}
 }
